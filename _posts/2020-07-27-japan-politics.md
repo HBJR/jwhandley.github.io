@@ -2,7 +2,7 @@
 layout: post
 title:  Japan's peculiar ideological divide and the politics of (almost) permanent opposition
 date:   2020-07-27 09:03:00 +0000
-categories: jekyll update
+categories: Japan, political parties, ideology
 ---
 
 ## The strength of the Liberal Democratic Party
@@ -11,7 +11,7 @@ The first thing most people learn about Japanese politics is the electoral domin
 
 There are a number of explanations for why the LDP has been so effective at holding onto power: the supposed lack of social strife brought by Japan's homogenous population, the inherent conservatism of Japanese culture and people, the LDP's close ties with the powerful government bureaucracy, the prevalence of 'political dynasties' and particularistic appeals of many LDP politicians are all major contenders. While I don't have problems with these theories as such (although the first two are roughly equal parts lazy and inaccurate descriptions of Japanese society), I think they ignore the role that Japan's opposition parties have played both under the 55 system of vaguely two-party competition between the LDP and the Socialist Party and the tumultuous post-1993 party system. Why should we care about parties that have almost never been credible challenges to LDP governance? Well, most importantly, for all the LDP's legislative dominance it has rarely commanded close to a majority of the popular vote in mostly elections since 1970:
 
-<img src="HoR_votes.png" alt="House of Representatives vote share" style="zoom:50%;" />
+<img src="assets/HoR_votes.png" alt="House of Representatives vote share" style="zoom:50%;" />
 
 Looking at this chart, we are faced with the fact that political parties other than the LDP (and Komeito after 1999) are actually fairly popular -- the precursors to the current four main opposition parties (the Constitutional Democratic Party, the Democratic Party for the People, the Communist Party and the Social Democratic Party) garnered a combined 47% of the party list vote to the governing coalition's 46% in the 2017 general election. This isn't the first time this has happened either: in the 2003 general election, the DPJ actually beat the LDP in party-list votes 37% to 35% and in the 2009 general election they got nearly 60% more votes than the LDP. This is not to paint an overly rosy picture of the Japanese opposition. Their seat counts speak for themselves. But it does show that there are plenty of Japanese people willing to vote for a party that's not the LDP. This is why I think no analysis of Japanese politics is complete without proper consideration of *all* the options presented to the Japanese public, not just the internal politics of the LDP.
 
@@ -89,19 +89,19 @@ Based on how the MPs for each party responded to all of these question, we can g
 
 ## Economic policy
 
-<img src="econ_policy.png" alt="Economic policy" style="zoom:50%;" />
+<img src="assets/econ_policy.png" alt="Economic policy" style="zoom:50%;" />
 
 As you can see, some of the areas follow the expected pattern -- the further left the party, the more likely its MPs support progressive taxation and oppose small government, for example. The Japan Innovation Party's status as a 'govposition' party is also clear: it sides more with the opposition parties on education policy, progressive taxation, and opposition to increasing consumption tax, but its members are also the only ones who prefer a small government and the least likely to favour public works to protect employment. There's also some strange variation within the opposition parties on fiscal stimulus and public works. Support for public works follows a bow shape -- the Communists and the LDP are the supportive, the Constitutional Democratic Party and the Party of Hope (now the Democratic Party for the People) are the least. The CDP and Party of Hope are also the most bearish on fiscal stimulus.
 
 People who know recent developments in Japanese politics well will suggest that this weird pattern is explained by the fact that Abe has ran on an economic policy that incorporates fiscal stimulus to increase the growth rate of nominal GDP -- 'Abenomics' -- and so the governing parties LDP and Komeito only support those things because of Abe's blatant attempt to co-opt the left on economics. I have two pieces of evidence against this. First, the same survey asked these questions to the Japanese public shortly before the election, and had a question for subjective left-right ideology. Based on this, we can see how self-identifying right-wingers think about economic policy and not just LDP MPs who have to support the party line.
 
-<img src="econ_policy_voters.png" alt="Economic policy voters" style="zoom:50%;" />
+<img src="assets/econ_policy_voters.png" alt="Economic policy voters" style="zoom:50%;" />
 
 As you can see here, the furthest left voters (0 on the subjective ideology scale) are indeed highly supportive of fiscal stimulus, but for everyone else the correlation actually runs opposite to what you would expect. In general, the more right wing you are in Japan the more likely you are to favour fiscal stimulus over austerity. For most of the other policies the picture is a slightly different one -- whether it's free education, small vs. big government, progressive taxation, or using public works to protect employment, most Japanese people conform to a broadly centre-left or left-wing position. The one major exception is consumption tax, which right-wing respondents favour raising and left-wing respondents oppose raising. I will return to this point later, but it indicates a tendency in Japanese politics for parties to coalesce around support for or opposition to a single politicised issue (such as whether to raise consumption tax or whether to restart nuclear power plants) rather than competition between competing political programmes from opposing ideological poles.
 
 Back to the point of patterns of support for fiscal stimulus and public works, my second piece of evidence comes from when the same question was asked of candidates in the 2005 general election. This was before Abenomics, and indeed at a time when the LDP, led my Prime Minister Koizumi, was enacting a series of neoliberal supply-side reforms aimed at, among other things, reducing Japan's sizeable fiscal deficit.
 
-<img src="econ_policy_2005.png" alt="Economic policy 2005 election" style="zoom:50%;" />
+<img src="assets/econ_policy_2005.png" alt="Economic policy 2005 election" style="zoom:50%;" />
 
 Here you can see that even in 2005, fiscal stimulus and public works were more supported by the right (and somewhat by the far left) than by the centre and centre-left. The Japanese left has been anti-Keynesian for at least a decade and a half. 
 
@@ -117,17 +117,17 @@ These three facts help to create a political environment where economic debates 
 
 If not economics, then what is Japanese political competition about? I hope to show in this section that, following the constitutional debate that has been going on in Japan since the current constitution was put into effect in 1947, views on Japanese national security and its relationships with America and neighbouring East Asian countries are the primary factor. Once again, I'll show how MPs elected in 2017 responded to the questions I listed above:
 
-<img src="foreign_policy.png" alt="Foreign policy" style="zoom:50%;" />
+<img src="assets/foreign_policy.png" alt="Foreign policy" style="zoom:50%;" />
 
 Aside from nuclear non-proliferation, politicians' views on these issues are *much* more polarised along party lines. Hawkishness on North Korea is almost a straight line from left to right (perhaps exaggerated because North Korean missile tests were a key issue in the 2017 election campaign) and the same goes for tolerating privacy violations in order to have better national security. Views on strengthening national defence, whether the prime minister should worship at Yasukuni shrine (an activity hated by Korea and China), and support for pre-emptive strikes are important exceptions -- the Party of Hope/Democratic Party for the People is actually to the right of Komeito on this, sometimes nearing the LDP in hawkishness. This may in part be because of Governor Koike's infamous exclusion of MPs opposed to constitutional reform, but as we shall see in the next section it's not limited to just foreign policy. That being said, foreign policy (specifically the way Japan handles national defence and its legacy from the second world war) has been the defining issue of Japanese politics for decades. Despite the main opposition of the 55 system being the Socialist Party (indeed a Socialist Party committed to a 'peaceful revolution' and opposed to the welfare state on Marxist grounds)[^2], the main tangible political aim of the left was to stop the LDP from reforming the "Peace Constitution" (平和憲法) to allow for re-militarisation. This key debate filters through to today, where one of the Communist Party's most prominent posters is of a woman carrying a flag that says "Let's protect Article 9 of the Constitution" and "Stop! Abe's constitutional reform".
 
-<img src="jcp_poster.png" alt="Communist Poster" style="zoom:100%;" />
+<img src="assets/jcp_poster.png" alt="Communist Poster" style="zoom:100%;" />
 
 ## Domestic policy and social issues
 
 The final set of policies I want to highlight are fairly broad, but I think they all roughly fit into the category of domestic policy and social issues. This ranges from positions on restarting nuclear power plants (polarised in a similar way as consumption tax is) to whether gay marriage should be legalised.
 
-<img src="domestic_policy.png" alt="Domestic policy" style="zoom:50%;" />
+<img src="assets/domestic_policy.png" alt="Domestic policy" style="zoom:50%;" />
 
 These issues are somewhere in between economics and national security in terms of polarisation. There are two interesting features. When it comes to separate names for spouses and legalising gay marriage, Komeito is arguably closer to the opposition parties than it is to the LDP. Also, The Party of Hope shows its conservatism by being the least likely opposition party to support either of these policies. Support for switching to a unicameral legislature is another peculiar area: the Japan Innovation Party is strongly supportive (part of its overall programme of cutting government operating expenses, 身を切る改革), but the Party of Hope is the only other party that's at least neutral. This reflects the Japanese centre's support for "reform centrism" (改革中道), an idea espoused by current Democratic Party for the People leader Tamaki Ichiro. 
 
