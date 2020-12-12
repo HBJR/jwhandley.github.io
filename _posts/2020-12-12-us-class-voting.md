@@ -89,24 +89,24 @@ Moving on to social values, both higher income and higher education tend to make
 
 The question for the future is whether American politics will continue to be polarised on both economic and social lines. The last two elections (2018 midterms and 2020 presidential election) have shown that when economic issues are back on the agenda, the working class moves further into the Democratic column. But the events of the last few years, from the Charlottesville rally in 2017 to the tragic death of George Floyd earlier this year and many more, show that racism is alive and well in the US, so we can expect the newly strong education cleavage to remain. Biden's losses among minority voters in the last election raise questions about why the race cleavage might be slipping even as racism is near the top of the political agenda, but that's a question I do not have an answer to. What I hope to have shown in this post is that the American electorate is still divided on class lines and that neither Donald Trump nor any Republican has managed to sever the link between the working class and the Democratic party. As much as some Republicans, like Florida Governor Rick Scott[^9] and Senator Marco Rubio[^10], might talk about a "multiethnic, working class coalition" of Republican voters, there is very little evidence to indicate that it exists. And unless Republicans stop unashamedly siding with the interests of capital over labour through their policies on taxes, healthcare, spending on social programmes, and labour market regulations, I don't foresee this image becoming a reality.
 
-[^1]: Cohn, N. (2016). There Are More White Voters Than People Think. That’s Good News for Trump. *New York Times*, *The Upshot* https://www.nytimes.com/2016/06/10/upshot/there-are-more-white-voters-than-people-think-thats-good-news-for-trump.html
+[^1]: Cohn, N. (2016). There Are More White Voters Than People Think. That’s Good News for Trump. *New York Times*, *The Upshot* <https://www.nytimes.com/2016/06/10/upshot/there-are-more-white-voters-than-people-think-thats-good-news-for-trump.html>
 
-[^2]: Reny, T., Collingwood, L., & Valenzuela, A. (2019). Vote Switching in the 2016 Election: How Racial and Immigration Attitudes, Not Economics, Explain Shifts in White Voting, *Public Opinion Quarterly*, 83(1), pp. 91–113, https://doi.org/10.1093/poq/nfz011
+[^2]: Reny, T., Collingwood, L., & Valenzuela, A. (2019). Vote Switching in the 2016 Election: How Racial and Immigration Attitudes, Not Economics, Explain Shifts in White Voting, *Public Opinion Quarterly*, 83(1), pp. 91–113, <https://doi.org/10.1093/poq/nfz011>
 
-[^3]: Carnes, N., & Lupu, N. (2020). The White Working Class and the 2016 Election. *Perspectives on Politics*, pp. 1-18. https://doi.org/10.1017/S1537592720001267
+[^3]: Carnes, N., & Lupu, N. (2020). The White Working Class and the 2016 Election. *Perspectives on Politics*, pp. 1-18. <https://doi.org/10.1017/S1537592720001267>
 
-[^4]: Kennedy, C. et al. (2018). An Evaluation of the 2016 Election Polls in the United States. *Public Opinion Quarterly*, 82(1), pp. 1–33. https://doi.org/10.1093/poq/nfx047
+[^4]: Kennedy, C. et al. (2018). An Evaluation of the 2016 Election Polls in the United States. *Public Opinion Quarterly*, 82(1), pp. 1–33. <https://doi.org/10.1093/poq/nfx047>
 
-[^5]: Kim, C., Tamborini, C., & Sakamoto, A. (2018). The Sources of Life Chances: Does Education, ClassCategory, Occupation, or Short-Term EarningsPredict 20-Year Long-Term Earnings? *Sociological Science*, 5(9), pp. 206-233. https://doi.org/10.15195/v5.a9
+[^5]: Kim, C., Tamborini, C., & Sakamoto, A. (2018). The Sources of Life Chances: Does Education, ClassCategory, Occupation, or Short-Term EarningsPredict 20-Year Long-Term Earnings? *Sociological Science*, 5(9), pp. 206-233. <https://doi.org/10.15195/v5.a9>
 
-[^6]: Zhang, C., & Burn-Murdoch, J. (2020). By numbers: how the US voted in 2020 *The Financial Times* https://www.ft.com/content/69f3206f-37a7-4561-bebf-5929e7df850d
+[^6]: Zhang, C., & Burn-Murdoch, J. (2020). By numbers: how the US voted in 2020 *The Financial Times* <https://www.ft.com/content/69f3206f-37a7-4561-bebf-5929e7df850d>
 
-[^7]: Brooks, C., & Manza, J. (1997). Social Cleavages and Political Alignments: US Presidential Election, 1960 to 1992. *American Sociological Review*, 62(6), pp. 937-946. https://doi.org/10.2307/2657348
+[^7]: Brooks, C., & Manza, J. (1997). Social Cleavages and Political Alignments: US Presidential Election, 1960 to 1992. *American Sociological Review*, 62(6), pp. 937-946. <https://doi.org/10.2307/2657348>
 
 [^7]: Ghitza, Y., & Gelman, A. (2013). Deep Interactions with MRP: Election Turnout and Voting Patterns Among Small Electoral Subgroups. *American Journal of Political Science*, 57(3), pp. 762-776
 
 [^8]: Alesina, A., & Glaeser, E. (2004). 'Race and Redistribution' in Alesina, A., & Glaeser, E. (eds.) *Fighting Poverty in the US and Europe: A World of Difference*. Oxford University Press, pp. 133-182.
 
-[^9]: https://floridapolitics.com/archives/386998-rick-scott-says-gop-can-win-if-it-talks-to-latinos-working-class-whites
+[^9]: <https://floridapolitics.com/archives/386998-rick-scott-says-gop-can-win-if-it-talks-to-latinos-working-class-whites>
 
-[^10]: https://thehill.com/homenews/news/525585-rubio-gop-must-rebrand-as-party-of-multiethnic-multiracial-working-class-voters
+[^10]: <https://thehill.com/homenews/news/525585-rubio-gop-must-rebrand-as-party-of-multiethnic-multiracial-working-class-voters>
