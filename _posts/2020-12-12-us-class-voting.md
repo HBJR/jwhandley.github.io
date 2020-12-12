@@ -9,7 +9,8 @@ One of the dominant narratives of the 2016 presidential election was the unusual
 
 While there is plenty of disagreement on the narrative that Trump was able to peel working class white voters away from the Democratic party (in fact one of the papers I linked above argues that the trend long predates Trump), I don't intend to dispute that here. It is clear that white voters without a college degree are the demographic group most supportive of Donald Trump and indeed that at least a plurality of them have voted for Republican candidates for President for a long time. Using data from the American National Election Studies, we can see that the white non-college two-party Democratic vote share for President has been below 50% since the 2000 election. Indeed, the last time white voters without a college degree were at least as likely to support the Democrat than the entire electorate was in 1964.
 
-Democratic two-party presidential vote share
+Democratic two-party presidential vote share:
+
 Year | Whites without a degree | All voters
 :--  | :---------------------: | ---------:
 1952 | 41%                     | 42%
@@ -29,6 +30,7 @@ Year | Whites without a degree | All voters
 2008 | 44%                     | 55%
 2012 | 40%                     | 54%
 2016 | 34%                     | 53%
+
 
 Source: American National Election Study (1952-2016); my calculations
 
