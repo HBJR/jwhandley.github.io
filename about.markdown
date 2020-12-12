@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a third year undergraduate at Merton College, Oxford studying Philosophy, Politics, and Economics.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I was born in California and, after living there for most of the first 16 years of my life, I moved to Japan with my parents to finish high school before coming to the UK for university.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+My main interests are political sociology, political economy, and social policy. I made this blog to showcase some of my personal side projects, especially data analysis and visualisation skills with Python and R.
