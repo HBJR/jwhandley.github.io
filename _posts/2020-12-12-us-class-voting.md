@@ -63,13 +63,13 @@ Source: CCES 2018; my calculations
 
 The 2018 midterms give an indication of what I think will be the 'new normal' for class voting in US elections. The education divide stayed as big as ever, but low income voters became more likely to vote for Democrats than in 2016. Exit polls from the 2020 presidential election suggest that this pattern has largely held. AP Votecast data suggest that Biden won voters with incomes less than $50,000 by 8 points and National Election Pool data say he won by that group by 11 points. Both sources have Biden winning college graduates by double digits and losing among those without degrees in the low single digits.
 
-Demographic | AP Votecast | National Election Pool | Average
-:---------- | :---------: | :--------------------: | ------:
-No degree   | -4%         | -2%                    | -3%
-Degree      | 16%         | 12%                    | 14%
-Less than $50,000 | 8%    | 11%                    | 10%
-$50,000 to $99,999 | -2%  | 15%                    | 7%
-More than $100,000 | 4%   | -12%                   | -4%
+Demographic        | AP Votecast | National Election Pool | Average
+:----------------- | :---------: | :--------------------: | ------:
+No degree          | -4%         | -2%                    | -3%
+Degree             | 16%         | 12%                    | 14%
+Less than $50,000  | 8%          | 11%                    | 10%
+$50,000 to $99,999 | -2%         | 15%                    | 7%
+More than $100,000 | 4%          | -12%                   | -4%
 
 I think these changes &mdash; greater polarisation along education lines and contiued polarisation along income lines &mdash; are driven by the nature of value divides in American politics. To show this, I used several questions that the American National Election Study has asked for the last few decades to construct indices of economic left-right values and social liberal-conservative values that are consistent over time. Using an approach similar to the one above, I estimated the effect of each index on vote choice in every presidential election since 1992. I derived these indices by running a principal component analysis on questions about government healthcare, guaranteed jobs and income, aid to black people and other minorities, the legality of abortion, the authority of the Bible, views on affirmative action, support for laws banning job discrimination against LGBT workers, and opinions on immigration.
 
