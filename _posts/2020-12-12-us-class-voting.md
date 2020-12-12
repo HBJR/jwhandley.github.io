@@ -29,6 +29,7 @@ Year | Whites without a degree | All voters
 2008 | 44%                     | 55%
 2012 | 40%                     | 54%
 2016 | 34%                     | 53%
+
 Source: American National Election Study (1952-2016); my calculations
 
 What I have a problem with is that 'working class' and 'doesn't have a college degree' are so often conflated in the popular discourse around this. Supporters of this definition of working class rightly argue that education is closely linked with social standing and earning potential &mdash; both of which are deeply grounded in the popular Weberian conception of class as consisting of wealth, prestige, and power. The issue is that education is merely a proxy for this things and we need more than a priori reasoning to tell us that high support among the less educated automatically means high support among those with low wealth and income or with low prestige and power. At the very least, we should look at income as a more direct indication of both immediate material deprivation and because it actually provides a better indicator of lifetime earning potential that other measures of class.[^5]
@@ -55,6 +56,7 @@ Repeal Obamacare | High school or less | Some college | Degree
 :--------------- | :-----------------: | :----------: | -----:
 Support          | 50.3%               | 44.2%        | 36.3%
 Oppose           | 49.7%               | 55.8%        | 63.7%
+
 Source: CCES 2018; my calculations
 
 The 2018 midterms give an indication of what I think will be the 'new normal' for class voting in US elections. The education divide stayed as big as ever, but low income voters became more likely to vote for Democrats than in 2016. Exit polls from the 2020 presidential election suggest that this pattern has largely held. AP Votecast data suggest that Biden won voters with incomes less than $50,000 by 8 points and National Election Pool data say he won by that group by 11 points. Both sources have Biden winning college graduates by double digits and losing among those without degrees in the low single digits.
