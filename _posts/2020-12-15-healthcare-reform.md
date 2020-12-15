@@ -21,17 +21,17 @@ The code for the M4A model using the `lme4` package in R is: `glmer(m4a.support 
 
 The ACA model is: `glmer(aca.support ~ (1|sex) + (1|age) + (1|educ) + (1|race) + (1|income) + (1|race:educ) + (1|income:race) + (1|income:educ) + (1|race:region) + log(median_income) + degree + dem20,df,family=binomial)`
 
-I have created a series of maps that indicate support for the Affordable Care Act and Medicare for All by state. The first set looks at race and education, the second looks at income and education. I chose these because they highlight a very interesting difference in who supports each policy. 
+I have created a series of maps that indicate support for the Affordable Care Act and Medicare for All by state. The first set looks at race and education, the second looks at income and education. I chose these because they highlight a very interesting difference in who supports each policy (sorry about the size of the images, they are pretty high definition so I suggest opening in another tab and zooming in). 
 
 <img src="{{site.baseurl}}/assets/img/aca_race_education.png" alt="Support for the ACA by race and education" style="zoom:50%;" />
 
 Opinions on the ACA seem to be divided in the same way national politics has become divided &mdash; highly educated voters of all incomes and races tend to support it, minorities are much more likely to support it than white people, and higher income modestly reduces support for it. 
 
-<img src="{{site.baseurl}}/assets/img/aca_income_education.png" alt="Support for the ACA by income and education" style="zoom:25%;" />
+<img src="{{site.baseurl}}/assets/img/aca_income_education.png" alt="Support for the ACA by income and education" style="zoom:50%;" />
 
 M4A, however, doesn't seem to have been affected by the same polarisation (the first indication of this was when the income by education interaction effect had a variance very close to zero when I first fit the model).
 
-<img src="{{site.baseurl}}/assets/img/m4a_income_education.png" alt="Support for M4A by income and education" style="zoom:25%;" />
+<img src="{{site.baseurl}}/assets/img/m4a_income_education.png" alt="Support for M4A by income and education" style="zoom:50%;" />
 
 Conditional on income, more educated people are *less* likely to support it. Meanwhile, income is just as if not more predictive of support for Medicare for All and race is slightly less so (though this may be in part because Black people tend to link their support for President Obama with support for his signature legislative achievement).
 
