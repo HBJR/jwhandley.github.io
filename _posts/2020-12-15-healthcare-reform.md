@@ -2,7 +2,7 @@
 layout: post
 title:  Who supports Medicare for All? 
 date:   2020-12-15 18:35:00 +0000
-categories: class, voting, social cleavage, ideology
+categories: class, healthcare, obamacare, mrp
 ---
 
 Universal healthcare coverage has been the Democratic party's white whale for decades. FDR had to remove national health insurance from the Social Security Act in 1935 due to opposition from the American Medical Association, Truman failed to get national health insurance past a conservative congress, the best Johnson could do after a landslide election victory in 1964 was get Medicare for the elderly and Medicaid for the poor, and various attempts at universal coverage failed throughout the 1970s and 1990s.
